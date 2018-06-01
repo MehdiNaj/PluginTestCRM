@@ -1,0 +1,89 @@
+10:44:29	Deploying Plugins
+10:44:29	Searching for plugin config in 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:44:29	Using Config 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:44:29	Checking assembly 'PluginsSPKL2.dll' for plugins
+10:44:29	1 plugin(s) found!
+10:44:30	Registering Plugin 'PluginsSPKL2' from 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.dll'
+10:44:30	Registering Type 'PluginsSPKL2.AccountPlugin'
+10:44:30	Registering Step 'PreCreate Account'
+10:44:30	Processed 1 config(s)
+10:47:26	Deploying Plugins
+10:47:26	Searching for plugin config in 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:47:26	Using Config 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:47:26	Checking assembly 'PluginsSPKL2.dll' for plugins
+10:47:26	1 plugin(s) found!
+10:47:27	Updating Plugin 'PluginsSPKL2' from 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.dll'
+10:47:27	Updating Type 'PluginsSPKL2.AccountPlugin'
+10:47:27	Updating Step 'PreCreate Account'
+10:47:27	Processed 1 config(s)
+10:48:30	Deploying Plugins
+10:48:30	Searching for plugin config in 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:48:30	Using Config 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:48:30	Checking assembly 'PluginsSPKL2.dll' for plugins
+10:48:30	1 plugin(s) found!
+10:48:31	Updating Plugin 'PluginsSPKL2' from 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.dll'
+10:48:31	Updating Type 'PluginsSPKL2.AccountPlugin'
+10:48:31	Updating Step 'PreCreate Account'
+10:48:31	Processed 1 config(s)
+10:51:49	Downloading Plugin/Workflow Activity Metadata
+10:51:49	Searching for classes in 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:51:50	Found Plugin Type Registration PluginsSPKL2.AccountPlugin
+10:51:50	1 classes decorated with deployment attributes!
+11:16:56	Deploying Plugins
+11:16:56	Searching for plugin config in 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+11:16:56	Using Config 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+11:16:56	Checking assembly 'PluginsSPKL2.dll' for plugins
+11:16:56	1 plugin(s) found!
+11:16:57	Updating Plugin 'PluginsSPKL2' from 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.dll'
+11:16:57	Updating Type 'PluginsSPKL2.AccountPlugin'
+11:16:57	Updating Step 'PreCreate Account'
+11:16:57	Processed 1 config(s)
+11:20:04	Deploying Plugins
+11:20:04	Searching for plugin config in 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+11:20:04	Using Config 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+11:20:04	Checking assembly 'PluginsSPKL2.dll' for plugins
+11:20:04	1 plugin(s) found!
+11:20:04	Updating Plugin 'PluginsSPKL2' from 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.dll'
+11:20:04	Updating Type 'PluginsSPKL2.AccountPlugin'
+11:20:05	Updating Step 'PreCreate Account'
+11:20:05	Processed 1 config(s)
+11:21:18	Deploying Plugins
+11:21:18	Searching for plugin config in 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+11:21:18	Using Config 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\spkl\..'
+11:21:18	Checking assembly 'PluginsSPKL2.dll' for plugins
+11:21:18	1 plugin(s) found!
+11:21:19	Updating Plugin 'PluginsSPKL2' from 'D:\Users\mehdi.najjar\Documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.dll'
+11:21:19	Updating Type 'PluginsSPKL2.AccountPlugin'
+11:21:19	Updating Step 'PreCreate Account'
+11:21:19	Processed 1 config(s)
+15:26:20	Deploying Plugins
+15:26:20	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\spkl\AccountPlugin'
+15:26:55	Deploying Plugins
+15:26:55	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\spkl\AccountPlugin'
+10:27:42	Deploying Plugins
+10:27:42	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:27:42	Using Config 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:27:42	Checking assembly 'PluginsSPKL2.dll' for plugins
+10:27:42	1 plugin(s) found!
+10:27:42	Registering Plugin 'PluginsSPKL2' from 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Release\PluginsSPKL2.dll'
+10:27:43	Registering Type 'PluginsSPKL2.AccountPlugin'
+10:27:43	Registering Step 'PreCreate Account'
+10:27:43	Processed 1 config(s)
+10:28:26	Deploying Plugins
+10:28:26	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:28:26	Using Config 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\spkl\..'
+10:28:26	Checking assembly 'PluginsSPKL2.dll' for plugins
+10:28:26	1 plugin(s) found!
+10:28:26	Registering Plugin 'PluginsSPKL2' from 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Release\PluginsSPKL2.dll'
+10:28:26	Registering Type 'PluginsSPKL2.AccountPlugin'
+10:28:26	Registering Step 'PreCreate Account'
+10:28:27	Processed 1 config(s)
+16:33:32	Deploying WebResources
+16:33:33	Using Config 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\PluginsSPKL2\spkl\..'
+16:33:38	Creating Webresource 'new_\img\Capture.png' -> 'new_/img/Capture2.png'
+16:33:39	Adding to solution 'test'
+16:33:39	Deployed 1 webresource(s)
+16:33:39	Publishing 1 webresources...
+16:33:43	Publish complete.
+16:33:43	Processed 1 section(s)
+16:33:43	Processed 1 config(s)

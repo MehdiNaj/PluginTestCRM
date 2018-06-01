@@ -1,0 +1,78 @@
+{
+  "plugins": [
+    {
+      "profile": "default,debug",
+      "assemblypath": "bin\\Debug"
+    },
+    {
+      "profile": "release",
+      "assemblypath": "bin\\Release"
+    }
+  ],
+  "webresources": [
+    {
+      /* 
+      Option - profile - Provide a comma delimitered list of profile names that can be referenced when calling spkl
+      */
+      "profile": "default,debug",
+
+      /*
+      Optional - root - Provide the relatative path of the webresources.
+      */
+      "root": "bin/Release/Webresources/",
+
+      /*
+      Optional - solution - Add webresources to a solution when deploying
+      */
+      //"solution": "",
+
+      /*
+      Required - files - List the webresources to deploy relatative to the root of this file (or the the root parameter above)
+      */
+      "files": [
+        {
+          "uniquename": "new_/img/Capture2.png",
+          "file": "new_\\img\\Capture.png",
+          "description": "Ma 1eme Capture"
+        },
+        {
+          "uniquename": "new_/js/test.js",
+          "file": "new_\\js\\test.js",
+          "description": ""
+        }
+      ]
+    },
+    {
+      /* 
+      Option - profile - Provide a comma delimitered list of profile names that can be referenced when calling spkl
+      */
+      "profile": "release",
+
+      /*
+      Optional - root - Provide the relatative path of the webresources.
+      */
+      "root": "bin/Release/Webresources/",
+
+      /*
+      Optional - solution - Add webresources to a solution when deploying
+      */
+      "solution": "test",
+
+      /*
+      Required - files - List the webresources to deploy relatative to the root of this file (or the the root parameter above)
+      */
+      "files": [
+        {
+          "uniquename": "new_/img/Capture2.png",
+          "file": "new_\\img\\Capture.png",
+          "description": "Ma 1eme Capture"
+        },
+        {
+          "uniquename": "new_/js/test.js",
+          "file": "new_\\js\\test.js",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

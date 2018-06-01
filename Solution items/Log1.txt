@@ -1,0 +1,73 @@
+15:17:57	Deploying Plugins
+15:17:57	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\AccountPlugin'
+15:19:06	Deploying Plugins
+15:19:06	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\AccountPlugin'
+15:19:40	Deploying Plugins
+15:19:40	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\AccountPlugin'
+15:22:54	Deploying Plugins
+15:22:54	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\AccountPlugin'
+15:23:42	Deploying Plugins
+15:23:42	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\AccountPlugin'
+15:25:58	Deploying Plugins
+15:25:58	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\AccountPlugin'
+10:15:31	Deploying Plugins
+10:15:31	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\AccountPlugin'
+10:20:36	Deploying Plugins
+10:20:36	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:20:36	Using Config 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:20:36	Processed 1 config(s)
+10:21:32	Deploying Plugins
+10:21:32	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\PluginsSPKL2'
+10:23:08	Deploying Plugins
+10:23:08	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:23:08	Using Config 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:23:08	Processed 1 config(s)
+10:23:37	Deploying Plugins
+10:23:37	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:23:38	Using Config 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:23:38	Processed 1 config(s)
+10:25:17	Deploying Plugins
+10:25:17	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:25:17	Using Config 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:25:17	Checking assembly 'PluginsSPKL2.dll' for plugins
+10:25:17	1 plugin(s) found!
+10:26:57	Deploying Plugins
+10:26:57	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:26:57	Using Config 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:26:57	Checking assembly 'PluginsSPKL2.dll' for plugins
+10:26:57	1 plugin(s) found!
+10:30:06	Deploying Plugins
+10:30:06	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:30:06	Using Config 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+10:30:06	Checking assembly 'PluginsSPKL2.dll' for plugins
+10:30:06	1 plugin(s) found!
+10:30:06	Registering Plugin 'PluginsSPKL2' from 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Release\PluginsSPKL2.dll'
+10:30:07	Registering Type 'PluginsSPKL2.AccountPlugin'
+10:30:08	Registering Step 'PreCreate Account'
+10:30:08	Processed 1 config(s)
+14:53:11	Deploying Plugins
+14:53:11	Searching for plugin config in 'D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\Solution items\Spkl Build\drop\PluginsSPKL2'
+14:24:51	Deploying Plugins
+14:24:51	Searching for plugin config in 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\Solution items\drop\PluginsSPKL2'
+14:25:13	Deploying Plugins
+14:25:13	Searching for plugin config in 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\Solution items\Build Plugin SPKL\drop\PluginsSPKL2'
+14:26:50	Deploying Plugins
+14:26:50	Searching for plugin config in 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\Solution items\Build Plugin SPKL\drop\PluginsSPKL2'
+14:28:41	Deploying Plugins
+14:28:41	Searching for plugin config in 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+14:28:41	Using Config 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+14:28:41	Checking assembly 'PluginsSPKL2.dll' for plugins
+14:28:41	1 plugin(s) found!
+14:28:42	Updating Plugin 'PluginsSPKL2' from 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Release\PluginsSPKL2.dll'
+14:28:42	Updating Type 'PluginsSPKL2.AccountPlugin'
+14:28:42	Registering Step 'PreCreate Account'
+14:28:43	Processed 1 config(s)
+14:28:58	Deploying Plugins
+14:28:58	Searching for plugin config in 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+14:28:58	Using Config 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\Solution items\..\PluginsSPKL2'
+14:28:58	Checking assembly 'PluginsSPKL2.dll' for plugins
+14:28:58	1 plugin(s) found!
+14:28:58	Registering Plugin 'PluginsSPKL2' from 'D:\CRMAlehos05\CRM CI 05\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Release\PluginsSPKL2.dll'
+14:28:59	Registering Type 'PluginsSPKL2.AccountPlugin'
+14:28:59	Registering Step 'PreCreate Account'
+14:28:59	Processed 1 config(s)

@@ -1,0 +1,44 @@
+using Microsoft.Xrm.Sdk;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PluginsSPKL2
+{
+
+    //[CrmPluginRegistration(MessageNameEnum.Create,"account",StageEnum.PreOperation,ExecutionModeEnum.Synchronous, "","PreCreate Account",1,IsolationModeEnum.None)]
+
+    public class AccountPlugin : IPlugin
+    {
+        
+        public void Execute(IServiceProvider serviceProvider)
+        {
+            //TODO
+
+            //ITracingService tracer = (ITracingService)serviceProvider.GetService(typeof(ITracingService));
+            //IPluginExecutionContext context = (IPluginExecutionContext)serviceProvider.GetService(typeof(IPluginExecutionContext));
+            //IOrganizationServiceFactory factory = (IOrganizationServiceFactory)serviceProvider.GetService(typeof(IOrganizationServiceFactory));
+            //IOrganizationService service = factory.CreateOrganizationService(context.UserId);
+
+            //Entity entity = (Entity)context.InputParameters["Target"];
+            //String entityName = entity.LogicalName;
+            //Guid entityId = entity.Id;
+
+            ////Entity compte = new Entity(entityName, entity.Id);
+            ////Entity compte = new Entity("account");
+            //entity["telephone1"] = "12-124-455";
+            //entity["description"] = "Ceci est une description";
+            //entity["fax"] = "122 455";
+
+            ////int statusCode = 1;
+            //////compte["statuscode"] = new OptionSetValue(statusCode);
+            ////compte["statecode"] = new OptionSetValue(statusCode);
+
+            //context.InputParameters["Target"] = entity;
+
+
+        }
+    }
+}

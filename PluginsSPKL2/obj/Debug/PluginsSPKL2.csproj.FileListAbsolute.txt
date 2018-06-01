@@ -1,0 +1,16 @@
+d:\users\mehdi.najjar\documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.dll
+d:\users\mehdi.najjar\documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.pdb
+d:\users\mehdi.najjar\documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+d:\users\mehdi.najjar\documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\Microsoft.Xrm.Sdk.dll
+d:\users\mehdi.najjar\documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+d:\users\mehdi.najjar\documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\obj\Debug\PluginsSPKL2.csprojResolveAssemblyReference.cache
+d:\users\mehdi.najjar\documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\obj\Debug\PluginsSPKL2.dll
+d:\users\mehdi.najjar\documents\visual studio 2015\Projects\PluginsSPKL2\PluginsSPKL2\obj\Debug\PluginsSPKL2.pdb
+D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.dll
+D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Debug\PluginsSPKL2.pdb
+D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\obj\Debug\PluginsSPKL2.csprojResolveAssemblyReference.cache
+D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\obj\Debug\PluginsSPKL2.dll
+D:\CRMCI03\CRM CI 03\Plugins\PluginsSPKL2\PluginsSPKL2\obj\Debug\PluginsSPKL2.pdb
