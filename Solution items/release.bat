@@ -14,9 +14,9 @@ For /R %package_root% %%G IN (spkl.exe) do (
 @echo Build URI '%builduri%' 
 
 REM spkl plugins [path] [connection-string] [/p:release]
-"%spkl_path%" plugins "%cd%\Dynamics 365 Demo-Plugin\drop\Build Plugin SPKL\PluginsSPKL2" "%connection%" /p:release
+"%spkl_path%" plugins "%cd%\PluginsSPKL2" "%connection%" /p:release
 
-"%spkl_path%" webresources "%cd%\Dynamics 365 Demo-Plugin\drop\Build Plugin SPKL\PluginsSPKL2" "%connection%"
+"%spkl_path%" webresources "%cd%\PluginsSPKL2" "%connection%"
 
 REM %package_root% plugins "%cd%\PluginsSPKL2" "%connection%" /p:release
 
